@@ -6,6 +6,7 @@
 - Jorgan Petit
 - Luisa Quintero Pineda
 - Diyar Tahir
+- Nigel Mitchell
 
 # FOR LINUX (Debian/Ubuntu)
 
